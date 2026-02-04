@@ -1,0 +1,20 @@
+===========================================
+WHERE TO UPLOAD YOUR CAR PHOTOS
+===========================================
+
+FOLDER PATH:
+/Users/hugoalvarado/Desktop/carwash-web-app-/public/images/
+
+INSTRUCTIONS:
+1. Open Finder
+2. Navigate to: Desktop → carwash-web-app- → public → images
+3. Copy your car photos into this "images" folder
+4. Rename them to:
+   - car1.jpg
+   - car2.jpg
+   - car3.jpg
+   - car4.jpg
+
+That's it! The website will automatically show them.
+
+===========================================
